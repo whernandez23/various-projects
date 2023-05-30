@@ -1,0 +1,234 @@
+04-08-2021 23.41.41 : SERVER : Transaction>kiosk#001,2,1.44
+04-08-2021 23.41.42 : SERVER : quit
+04-08-2021 23.54.25 : SERVER : Transaction>kiosk#001,0,0.00
+04-08-2021 23.54.25 : SERVER : quit
+04-08-2021 23.54.26 : CLIENT : Transaction>kiosk#001,0,0.00
+04-08-2021 23.54.27 : SERVER : Transaction>kiosk#001,0,0.00
+04-08-2021 23.54.28 : SERVER : quit
+04-08-2021 23.54.28 : CLIENT : Transaction>kiosk#001,0,0.00
+04-08-2021 23.54.28 : SERVER : Transaction>kiosk#001,0,0.00
+04-08-2021 23.54.29 : SERVER : quit
+04-08-2021 23.54.29 : CLIENT : Transaction>kiosk#001,0,0.00
+04-08-2021 23.54.29 : SERVER : Transaction>kiosk#001,0,0.00
+04-08-2021 23.54.30 : SERVER : quit
+04-08-2021 23.54.30 : CLIENT : Transaction>kiosk#001,0,0.00
+04-08-2021 23.54.30 : SERVER : Transaction>kiosk#001,0,0.00
+04-08-2021 23.54.31 : SERVER : quit
+04-08-2021 23.54.31 : CLIENT : Transaction>kiosk#001,0,0.00
+04-08-2021 23.54.31 : SERVER : Transaction>kiosk#001,0,0.00
+04-08-2021 23.54.32 : SERVER : quit
+04-08-2021 23.54.32 : CLIENT : Transaction>kiosk#001,0,0.00
+04-08-2021 23.54.32 : SERVER : Transaction>kiosk#001,0,0.00
+04-08-2021 23.54.33 : SERVER : quit
+04-08-2021 23.54.33 : CLIENT : Transaction>kiosk#001,0,0.00
+04-16-2021 12.06.58 : SERVER : Transaction>kiosk#001,0,0.00
+04-16-2021 12.06.59 : SERVER : quit
+04-16-2021 12.06.59 : CLIENT : Transaction>kiosk#001,0,0.00
+04-16-2021 12.08.08 : SERVER : Transaction>kiosk#001,0,0.00
+04-16-2021 12.08.09 : SERVER : quit
+04-16-2021 12.08.09 : CLIENT : Transaction>kiosk#001,0,0.00
+04-16-2021 12.10.18 : SERVER : Transaction>kiosk#001,0,0.00
+04-16-2021 12.10.19 : SERVER : quit
+04-16-2021 12.10.19 : CLIENT : Transaction>kiosk#001,0,0.00
+04-16-2021 12.34.56 : SERVER : Transaction>kiosk#001,0,0.00
+04-16-2021 12.34.56 : SERVER : hibyechai
+04-16-2021 12.34.56 : CLIENT : Transaction>kiosk#001,0,0.00
+04-16-2021 12.34.57 : SERVER : quit
+04-16-2021 12.40.54 : SERVER : Transaction>kiosk#001,0,0.00
+04-16-2021 12.40.54 : SERVER : ya yeetyoot
+04-16-2021 12.40.54 : CLIENT : Transaction>kiosk#001,0,0.00
+04-16-2021 12.40.55 : SERVER : quit
+04-16-2021 12.43.59 : SERVER : Transaction>kiosk#001,0,0.00
+04-16-2021 12.43.59 : SERVER : 
+04-16-2021 12.43.59 : CLIENT : Transaction>kiosk#001,0,0.00
+04-16-2021 12.44.00 : SERVER : Name: bill
+04-16-2021 12.44.00 : SERVER :  Phone #: 
+04-16-2021 12.44.01 : SERVER :  Email:nye/n Card #: 133
+04-16-2021 12.44.01 : SERVER : quit
+04-16-2021 12.46.45 : SERVER : Transaction>kiosk#001,0,0.00
+04-16-2021 12.46.46 : SERVER : 
+04-16-2021 12.46.46 : CLIENT : Transaction>kiosk#001,0,0.00
+04-16-2021 12.46.46 : SERVER : Name: Fed
+04-16-2021 12.46.47 : SERVER : Email: fread@hotmail.com/nCard #: 1111
+04-16-2021 12.46.47 : SERVER : quit
+04-16-2021 12.51.28 : SERVER : Transaction>kiosk#001,0,0.00
+04-16-2021 12.51.28 : SERVER : Name: Mom
+04-16-2021 12.51.28 : CLIENT : Transaction>kiosk#001,0,0.00
+04-16-2021 12.51.29 : SERVER : Email: Ya
+04-16-2021 12.51.29 : SERVER : Card #: Juice
+04-16-2021 12.51.30 : SERVER : quit
+05-10-2021 21.28.11 : SERVER : Transaction>kiosk#001,0,0.00
+05-10-2021 21.28.12 : SERVER : Name: Ysysys
+05-10-2021 21.28.12 : CLIENT : Transaction>kiosk#001,0,0.00
+05-10-2021 21.28.12 : SERVER : Email: windi@dnej
+05-10-2021 21.28.13 : SERVER : Card #: 1234
+05-10-2021 21.28.13 : SERVER : quit
+05-11-2021 23.52.32 : SERVER : Transaction>kiosk#001,0,0.00
+05-11-2021 23.52.32 : SERVER : Name: Yo
+05-11-2021 23.52.32 : CLIENT : Transaction>kiosk#001,0,0.00
+05-11-2021 23.52.33 : SERVER : Starting Location: ComboBox@7bd293a7[styleClass=combo-box-base combo-box]
+05-11-2021 23.52.33 : SERVER : Email: Mama
+05-11-2021 23.52.34 : SERVER : Card #: 1234
+05-11-2021 23.52.34 : SERVER : quit
+05-12-2021 00.00.40 : SERVER : Transaction>kiosk#001,0,0.00
+05-12-2021 00.00.40 : SERVER : Name: Yo
+05-12-2021 00.00.40 : CLIENT : Transaction>kiosk#001,0,0.00
+05-12-2021 00.00.41 : SERVER : Starting Location: ComboBox@7bd293a7[styleClass=combo-box-base combo-box]
+05-12-2021 00.00.41 : SERVER : Email: Mama
+05-12-2021 00.00.42 : SERVER : Card #: 1234
+05-12-2021 00.00.42 : SERVER : quit
+05-12-2021 00.05.31 : SERVER : Transaction>kiosk#001,0,0.00
+05-12-2021 00.05.32 : SERVER : Name: 
+05-12-2021 00.05.32 : CLIENT : Transaction>kiosk#001,0,0.00
+05-12-2021 00.05.32 : SERVER : Starting Location: New York City
+05-12-2021 00.05.33 : SERVER : Email: 
+05-12-2021 00.05.33 : SERVER : Card #: 
+05-12-2021 00.05.34 : SERVER : quit
+05-12-2021 00.10.50 : SERVER : Transaction>kiosk#001,0,0.00
+05-12-2021 00.10.51 : SERVER : Name: 
+05-12-2021 00.10.51 : CLIENT : Transaction>kiosk#001,0,0.00
+05-12-2021 00.10.51 : SERVER : Starting Location: YurtCity
+05-12-2021 00.10.52 : SERVER : Email: 
+05-12-2021 00.10.52 : SERVER : Card #: 
+05-12-2021 00.10.53 : SERVER : quit
+05-12-2021 00.20.44 : SERVER : Transaction>kiosk#001,0,0.00
+05-12-2021 00.20.44 : SERVER : Name: Bob
+05-12-2021 00.20.44 : CLIENT : Transaction>kiosk#001,0,0.00
+05-12-2021 00.20.45 : SERVER : Starting Location: New York City
+05-12-2021 00.20.45 : SERVER : Ending Location: Tokyo
+05-12-2021 00.20.46 : SERVER : Email: Bill
+05-12-2021 00.20.46 : SERVER : Card #: bill@10029.com
+05-12-2021 00.20.47 : SERVER : quit
+05-12-2021 14.01.34 : SERVER : Transaction>kiosk#001,0,0.00
+05-12-2021 14.01.34 : SERVER : Name: ef
+05-12-2021 14.01.34 : CLIENT : Transaction>kiosk#001,0,0.00
+05-12-2021 14.01.35 : SERVER : Starting Location: New York City
+05-12-2021 14.01.35 : SERVER : Ending Location: Los Angeles
+05-12-2021 14.01.36 : SERVER : Email: eeff
+05-12-2021 14.01.36 : SERVER : Card #: dwa
+05-12-2021 14.01.36 : SERVER : Transaction>kiosk#001,0,0.00
+05-12-2021 14.01.37 : SERVER : quit
+05-12-2021 14.01.37 : SERVER : Name: ef
+05-12-2021 14.01.37 : CLIENT : Transaction>kiosk#001,0,0.00
+05-12-2021 14.01.37 : SERVER : Starting Location: New York City
+05-12-2021 14.01.38 : SERVER : Ending Location: Los Angeles
+05-12-2021 14.01.38 : SERVER : Email: eeff
+05-12-2021 14.01.39 : SERVER : Card #: dwa
+05-12-2021 14.01.40 : SERVER : quit
+05-12-2021 14.47.07 : SERVER : Transaction>kiosk#001,0,0.00
+05-12-2021 14.47.07 : SERVER : Name: kjhg
+05-12-2021 14.47.08 : SERVER : Starting Location: New York City
+05-12-2021 14.47.08 : SERVER : Ending Location: Los Angeles
+05-12-2021 14.47.09 : SERVER : Email: njbhv
+05-12-2021 14.47.09 : SERVER : Card #: jnhg
+05-12-2021 14.47.10 : SERVER : quit
+05-12-2021 14.51.19 : SERVER : Transaction>kiosk#001,0,0.00
+05-12-2021 14.51.20 : SERVER : Name: kjhg
+05-12-2021 14.51.20 : SERVER : Starting Location: New York City
+05-12-2021 14.51.21 : SERVER : Ending Location: Los Angeles
+05-12-2021 14.51.21 : SERVER : Email: njbhv
+05-12-2021 14.51.22 : SERVER : Card #: jnhg
+05-12-2021 14.51.22 : SERVER : quit
+05-12-2021 15.09.27 : SERVER : Transaction>kiosk#001,0,0.00
+05-12-2021 15.09.28 : SERVER : Name: sc
+05-12-2021 15.09.29 : SERVER : Starting Location: Miami
+05-12-2021 15.09.29 : SERVER : Ending Location: Los Angeles
+05-12-2021 15.09.29 : CLIENT : Transaction>kiosk#001,0,0.00
+05-12-2021 15.09.30 : SERVER : Email: sc
+05-12-2021 15.09.30 : SERVER : Card #: sc
+05-12-2021 15.09.31 : SERVER : quit
+05-12-2021 15.11.23 : SERVER : Transaction>kiosk#001,0,0.00
+05-12-2021 15.11.24 : SERVER : Name: ef
+05-12-2021 15.11.24 : SERVER : Starting Location: Miami
+05-12-2021 15.11.25 : SERVER : Ending Location: Los Angeles
+05-12-2021 15.11.25 : CLIENT : Transaction>kiosk#001,0,0.00
+05-12-2021 15.11.25 : SERVER : Email: f
+05-12-2021 15.11.26 : SERVER : Card #: f
+05-12-2021 15.11.26 : SERVER : quit
+05-12-2021 15.16.12 : SERVER : Transaction>kiosk#001,0,0.00
+05-12-2021 15.16.13 : SERVER : Name: Yoo
+05-12-2021 15.16.13 : SERVER : Starting Location: New York City
+05-12-2021 15.16.13 : CLIENT : Transaction>kiosk#001,0,0.00
+05-12-2021 15.16.14 : SERVER : Ending Location: Los Angeles
+05-12-2021 15.16.14 : SERVER : Email: Yooooo
+05-12-2021 15.16.15 : SERVER : Card #: tahmed37@fordham.edu
+05-12-2021 15.16.15 : SERVER : quit
+05-12-2021 15.16.47 : SERVER : Transaction>kiosk#001,0,0.00
+05-12-2021 15.16.48 : SERVER : Name: Yoo
+05-12-2021 15.16.48 : SERVER : Starting Location: New York City
+05-12-2021 15.16.48 : CLIENT : Transaction>kiosk#001,0,0.00
+05-12-2021 15.16.49 : SERVER : Ending Location: Los Angeles
+05-12-2021 15.16.49 : SERVER : Email: Yooooo
+05-12-2021 15.16.50 : SERVER : Card #: tanvir10029@gmail.com
+05-12-2021 15.16.50 : SERVER : quit
+05-12-2021 15.20.04 : SERVER : Transaction>kiosk#001,0,0.00
+05-12-2021 15.20.05 : SERVER : Name: Tan
+05-12-2021 15.20.05 : SERVER : Starting Location: New York City
+05-12-2021 15.20.06 : SERVER : Ending Location: Tokyo
+05-12-2021 15.20.06 : CLIENT : Transaction>kiosk#001,0,0.00
+05-12-2021 15.20.06 : SERVER : Email: tanvir10029@gmail.com
+05-12-2021 15.20.07 : SERVER : Card #: sd
+05-12-2021 15.20.07 : SERVER : quit
+05-12-2021 15.22.43 : SERVER : Transaction>kiosk#001,0,0.00
+05-12-2021 15.22.43 : SERVER : Name: GH
+05-12-2021 15.22.44 : SERVER : Starting Location: New York City
+05-12-2021 15.22.44 : CLIENT : Transaction>kiosk#001,0,0.00
+05-12-2021 15.22.44 : SERVER : Ending Location: Los Angeles
+05-12-2021 15.22.45 : SERVER : Email: tahmed37@fordham.edu
+05-12-2021 15.22.45 : SERVER : Card #: x
+05-12-2021 15.22.46 : SERVER : quit
+05-12-2021 15.25.19 : SERVER : Transaction>kiosk#001,0,0.00
+05-12-2021 15.25.20 : SERVER : Name: Bob
+05-12-2021 15.25.20 : SERVER : Starting Location: Tube Land
+05-12-2021 15.25.21 : CLIENT : Transaction>kiosk#001,0,0.00
+05-12-2021 15.25.21 : SERVER : Ending Location: Yahooo World
+05-12-2021 15.25.21 : SERVER : Email: tanvir10029@gmail.com
+05-12-2021 15.25.22 : SERVER : Card #: 1234
+05-12-2021 15.25.22 : SERVER : quit
+05-12-2021 15.27.00 : SERVER : Transaction>kiosk#001,0,0.00
+05-12-2021 15.27.01 : SERVER : Name: HI
+05-12-2021 15.27.01 : SERVER : Starting Location: Tokyo
+05-12-2021 15.27.02 : SERVER : Ending Location: Los Angeles
+05-12-2021 15.27.02 : CLIENT : Transaction>kiosk#001,0,0.00
+05-12-2021 15.27.02 : SERVER : Email: tanvir10029@gmail.com
+05-12-2021 15.27.03 : SERVER : Card #: 33333
+05-12-2021 15.27.03 : SERVER : quit
+05-12-2021 17.40.56 : SERVER : Transaction>kiosk#001,0,0.00
+05-12-2021 17.40.57 : SERVER : Name: Jake
+05-12-2021 17.40.57 : SERVER : Starting Location: Miami
+05-12-2021 17.40.58 : SERVER : Ending Location: New York City
+05-12-2021 17.40.58 : CLIENT : Transaction>kiosk#001,0,0.00
+05-12-2021 17.40.58 : SERVER : Email: jake@fmail.com
+05-12-2021 17.40.59 : SERVER : Payment Method: Debit	
+05-12-2021 17.40.59 : SERVER : Card #: 12345
+05-12-2021 17.41.00 : SERVER : quit
+05-12-2021 18.03.45 : CLIENT NETWORK ERROR : Transaction>kiosk#001,0,0.00
+05-12-2021 18.05.00 : SERVER : Transaction>kiosk#001,0,0.00
+05-12-2021 18.05.00 : SERVER : Name: Ruby
+05-12-2021 18.05.01 : SERVER : Starting Location: London
+05-12-2021 18.05.01 : SERVER : Ending Location: Tokyo
+05-12-2021 18.05.02 : CLIENT : Transaction>kiosk#001,0,0.00
+05-12-2021 18.05.02 : SERVER : Email: rsetara@fordam.edu
+05-12-2021 18.05.02 : SERVER : Payment Method: Credit	
+05-12-2021 18.05.03 : SERVER : Card #: 1234
+05-12-2021 18.05.03 : SERVER : quit
+05-12-2021 18.05.40 : SERVER : Transaction>kiosk#001,0,0.00
+05-12-2021 18.05.41 : SERVER : Name: Ruby
+05-12-2021 18.05.41 : SERVER : Starting Location: London
+05-12-2021 18.05.41 : CLIENT : Transaction>kiosk#001,0,0.00
+05-12-2021 18.05.42 : SERVER : Ending Location: Tokyo $150;
+05-12-2021 18.05.42 : SERVER : Email: rsetara@fordham.edu
+05-12-2021 18.05.43 : SERVER : Payment Method: Credit	
+05-12-2021 18.05.43 : SERVER : Card #: 1234
+05-12-2021 18.05.44 : SERVER : quit
+05-13-2021 22.00.29 : SERVER : Transaction>kiosk#001,0,0.00
+05-13-2021 22.00.29 : SERVER : Name: Bill Wutz
+05-13-2021 22.00.30 : SERVER : Starting Location: Miami
+05-13-2021 22.00.30 : SERVER : Ending Location: New York City
+05-13-2021 22.00.31 : SERVER : Email: tahmed37@fordham.edu
+05-13-2021 22.00.31 : SERVER : Payment Method: Credit	
+05-13-2021 22.00.32 : CLIENT : Transaction>kiosk#001,0,0.00
+05-13-2021 22.00.32 : SERVER : Card #: 23456
+05-13-2021 22.00.33 : SERVER : Time and Price: 1:50 PM - $400;
+05-13-2021 22.00.33 : SERVER : 
+05-13-2021 22.00.34 : SERVER : quit
