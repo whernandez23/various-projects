@@ -1,0 +1,13 @@
+.navbar-brand{
+    margin-left: 20px;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    background-color: #F6F6FA;
+}
